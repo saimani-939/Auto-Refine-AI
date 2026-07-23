@@ -7,6 +7,6 @@ An AI-powered tool that automates data cleaning using Machine Learning.
 - **LLM Refinement**: Uses Gemini API for fuzzy text standardization.
 
 ### How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/Auto-Refine-AI.git`
+1. Clone the repo: `git clone https://github.com/saimani-939/Auto-Refine-AI.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the script: `python main.py`
